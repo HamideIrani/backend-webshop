@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "postgres://vprtawfs:v_CccbayECoT0Fpoov4csONGpP5qnyre@dumbo.db.elephantsql.com/vprtawfs",
+    "url": "postgres://utorfesf:jupWJeBUVC5-6YnoFvRkbYMtEYu3ZgUI@tyke.db.elephantsql.com/utorfesf",
     "dialect": "postgres"
   },
   "test": {

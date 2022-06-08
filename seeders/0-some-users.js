@@ -6,16 +6,16 @@ module.exports = {
       "users",
       [
         {
-          name: "Tarek Ben Yakoub",
-          email: "tarek@benyakoub.com",
-          password: "0000",
+          name: "Gonzalo Dutto",
+          email: "gonzalo@dutto.com",
+          password: "1234",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          name: "Miriam van den Bosch",
-          email: "miriam@vandenbosch.com",
-          password: "1234",
+          name: "Hamideh Irani",
+          email: "hami@irani.com",
+          password: "9876",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
